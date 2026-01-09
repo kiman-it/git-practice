@@ -23,6 +23,10 @@ Repository này dùng để:
 2. `git add .`
 3. `git commit -m "Day X: <nội dung đã làm>"`
 4. `git push`
+   
+## Learning Plan
+- Day 1: Git basic commands
+- Day 2: Push & Pull
 
 ---
 
