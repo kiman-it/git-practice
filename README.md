@@ -4,7 +4,7 @@
 
 ## 📌 Mục tiêu của repo này
 Repository này dùng để:
-- Ôn lại lệnh Git cơ bản
+- Học về git IT
 - Tập commit, tạo branch
 - Tập push/pull, resolve conflict
 - Ghi bài tập theo từng ngày
@@ -17,11 +17,6 @@ Repository này dùng để:
 | Day 3: Branch & Merge | git branch, git merge |
 | … | … |
 
-## 📖 Link tài liệu học
-- 🔗 Git basics (quy tắc commit tốt)  
-- 🔗 Branch & Pull Request workflow
-
----
 
 ## 📌 Cách luyện
 1. Sửa file trong repo
@@ -31,7 +26,3 @@ Repository này dùng để:
 
 ---
 
-## 📌 Liên hệ
-👉 Nếu bạn cần follow & trao đổi:  
-- GitHub: https://github.com/kiman-it  
-- (Có thể thêm email / link portfolio)
