@@ -30,5 +30,6 @@ Repository này dùng để:
 
 ## Tracking day one
 Yesterday I learned about basic GIT.
+2026/1/16 Try to create new branch on main
 ---
 
