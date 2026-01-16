@@ -28,5 +28,7 @@ Repository này dùng để:
 - Day 1: Git basic commands
 - Day 2: Push & Pull
 
+## Tracking day one
+Yesterday I learned about basic GIT.
 ---
 
