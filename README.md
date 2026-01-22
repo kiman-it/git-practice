@@ -29,10 +29,11 @@ Repository này dùng để:
 - Day 2: Push & Pull
 
 ## Tracking day one
-Yesterday I learned about basic GIT.
-2026/1/16 Try to create new branch on main
-2026/1/17 Recheck git edit add commit push
-2026/1/22 Mình đã học những cái cơ bản trên gitHUG và các câu lệnh git ròi, hiện mình đang học để viết web. Minhf đang đến tầng 2, học về CSS
+
+- Yesterday I learned about basic GIT.
+- 2026/1/16 Try to create new branch on main
+- 2026/1/17 Recheck git edit add commit push
+- 2026/1/22 Mình đã học những cái cơ bản trên github và các câu lệnh git ròi, hiện mình đang học để viết web. Minhf đang đến tầng 2, học về CSS
 
 ---
 
